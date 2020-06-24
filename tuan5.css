@@ -1,0 +1,1023 @@
+body {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+html{
+    width: 100%;
+    height: 100%;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(25,40,63);
+    color: white;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    width: 100%;
+}
+header .tren .phai {}
+
+header .tren .phai ul {
+    height: fit-content;
+    margin-top: 10px;
+}
+
+header .tren .phai ul li {
+    height: fit-content;
+}
+
+header .tren .phai ul li .nut{
+    height: fit-content;
+}
+
+header .tren .trai img {
+    position: absolute;
+    left: 50%;
+    margin-top: 10px;
+}
+
+header .tren .trai {
+    position: relative;
+}
+
+header .tren .phai ul li a i {
+    color: rgb(15,93,106);
+}
+.nutdo {
+    background-color: rgb(255,49,80);
+    border-radius: 15px;
+    color: #ffc501;
+    padding-left: 20px;
+    padding-right: 20px;
+    /* padding-top: 4px;
+    padding-bottom: 4px; */
+    text-align: center;
+}
+
+.xanh_dam {
+    background-color: rgb(25,40,63);
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+header .tren {
+    /* height: 200px; */
+}
+
+.xanh_dam h3 {
+    font-size: 51px;
+    font-weight: 400;
+    color: #a8b9c0;
+}
+
+.xanh_dam p {
+    font-size: 15px;
+    color: #a8b9c0;
+}
+.xanh_dam .nut {
+    position: relative;
+}
+.nut_duoi {
+    position: absolute;
+    left: 46%;
+    padding-top: 8px;
+    padding-right: 12px;
+    padding-left: 12px;
+    padding-bottom: 8px;
+}
+.than_1 {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.than_1 .bao {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    height: fit-content;
+}
+.xanh_nhat{
+    background-color: ;
+}
+.than .than_1 .bao .tren {
+    text-align: center;
+    margin-top: 20px;
+    height: fit-content;
+}
+
+.chughi {
+    color: rgb(230,235,237);
+    text-transform: uppercase;
+    font-size: 11px;
+    width: fit-content;
+    border-bottom: 1px solid rgb(172,236,234);
+    margin-right: auto;
+    margin-left: auto;
+    width: max-content;
+}
+
+.than .than_1 .bao .duoi {
+    text-align: center;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.chuvang {
+    color: #ffc501;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.than .than_1 .bao .duoi .col-4 p {
+    color: #a8b9c0;
+    font-size: 15px;
+}
+.than_1 .bao .duoi .col-4 img {
+    width: 115px;
+    height: 154px;
+}
+.than .than_1 .xanhnhat .bao .duoi nav .nav {
+    height: fit-content;
+    margin-top: 10px;
+    width: fit-content;
+    justify-content: space-between;
+}
+
+.xanhnhat .bao .duoi .nav .nav-item {
+    height: fit-content;
+    margin-right: 15px;
+}
+
+.xanhnhat .bao .duoi .nav .nav-item .nutdo {
+    padding-top: 5px;
+    border-radius: 8px;
+    padding-bottom: 5px;
+    margin-top: -5px;
+}
+.xanhnhat .khoi {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+
+.xanhnhat .khoi .khoi_1 {
+    height: 100px;
+    margin-top: 20px;
+}
+.xanhnhat .khoi .khoi_1 .trong h3{
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    left: 17%;
+    top: 37%
+}
+.xanhnhat .khoi .khoi_1 .trong p{
+    font-size: 10px;
+    position: absolute;
+    left: 35%;
+    top: 55%;
+}
+
+.xanhnhat {
+    background-color: #eff7fa;
+}
+
+.xanhnhat .bao .tren img {
+    margin-top: 20px;
+}
+.xanhnhat .khoi .khoi_1 .trong {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background-color: white;
+}
+.than .than_1 .xanhnhat .duoi{
+    padding-bottom: 25px;
+}
+.than .than_1 .xanhnhat .duoi .nutdo{
+    width: fit-content;
+    padding-top: 5px;
+    margin-top: 25px;
+    padding-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+}
+.chuthuong{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #a8b9c0;
+}
+.than .than_1 .than3{
+    height: fit-content;
+    padding-bottom: 50px;
+}
+.than .than_1 .than3 .duoi1{
+    
+}
+.than .than_1 .than3 .duoi1 .trai p{
+    color: #a8b9c0;
+}
+.than .than_1 .than3 .duoi1 .trai .nutdo {
+    width: fit-content;
+    padding-top: 5px;
+    margin-top: 25px;
+    padding-bottom: 5px;
+    width: max-content;
+}
+.than .than_1 .than3 .duoi1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+.than .than_1 .than3 .duoi1 .trai{
+    margin-top: 40px;
+}
+.than .than_1 .than3 .duoi1 .phai{}
+.than .than_1 .than3 .duoi1 .phai .anh{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.than .than_1 .than3 .duoi1 .phai .anh img:nth-child(1){
+    position: absolute;
+    left: 16%;
+    top:8%;
+    z-index: 1;
+}
+.than .than_1 .than3 .duoi1 .phai .anh img:nth-child(2){
+    position: absolute;
+    left: 0;
+    top: 0%;
+    z-index: -1;
+}
+.xanhnhat .bao1{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    height: fit-content;
+}
+.xanhnhat .bao1 .tren{
+    text-align: center;
+    padding-top: 40px;
+    height: fit-content;
+}
+.xanhnhat .bao1 .tren .chuthuong{
+    width: 80%;
+    margin-top: 20px;
+}
+.xanhnhat .bao1 .duoi{
+    padding-top: 20px;
+}
+.xanhnhat .bao1 .duoi .col-3 .trong{
+    background-color: white;
+    text-align: center;
+    width: 100%;
+    height: 381px;
+    position: relative;
+}
+.xanhnhat .bao1 .duoi .col-3 .trong .chuxanh{
+    background-color: #33d1cc; 
+    width: 100%;
+    height: fit-content;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: absolute;
+    left: 0;
+    top: 50%;
+}
+.xanhnhat .bao1 .duoi .col-3 .trong .chuthuong{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 70%;
+}
+.bao2{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.bao .khoi .khoi_1{} 
+.bao .khoi .khoi_1 .trong{
+    height: 129px;
+} 
+.bao .khoi .khoi_1 p{
+    color: #a8b9c0;
+    font-size: 13px;
+    margin-top: 10px;
+} 
+.bao .khoi .khoi_1 span{
+    font-size: 16px;
+}  
+.bao .duoi{
+    margin-top: 20px;
+    padding-bottom: 30px;
+} 
+.bao .duoi .nutdo {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: max-content;
+    margin-right: auto;
+    margin-left: auto;
+}
+.mauvang{
+    background-color: #ffc400;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.mauvang .khoi{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    height: fit-content;
+}
+.mauvang .khoi .col-3{
+    font-size: 15px;
+}
+.mauvang .khoi .col-6{
+    color: white;
+    border-bottom: 1px solid white;
+    height: fit-content;
+}
+.mauvang .khoi .nutdo{
+    background-color: #19283f;
+    padding-top: 5px;
+    width: fit-content;
+    padding-bottom: 5px;
+}
+footer .bao .dong1 {
+    margin-top: 20px;
+    font-size: 13px;
+    color: #a8b9c0;
+}
+
+footer .bao div {
+    color: #a8b9c0;
+    margin-top: 30px;
+    font-size: 13px;
+}
+
+footer .bao div span {
+    color: #00c7c0;
+}
+
+footer .bao .dong2 {font-size: 13px;margin-top: 20px;}
+
+footer .bao {
+    text-align: left;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer .bao .dong2 span {
+    color: #ffc501;
+}
+
+footer .bao .col-2 ul {
+    list-style-type: none;
+}
+
+footer .bao .col-2 ul li {
+    margin-bottom: 20px;
+}
+
+footer .bao .col-2 ul li:nth-child(1) {
+    font-size: 15px;
+    color: #f0f8fb;
+}
+footer .bao .col-4 p:nth-child(1) {
+    color: #f0f8fb;
+    font-size: 15px;
+}
+
+footer .nutdo {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #ffffff !important;
+}
+footer .bao .icons {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.facebook {
+    border-radius: 50%;
+    background-color: blue;
+    position: relative;
+    height: 30px;
+    width: 20% !important;
+}
+
+.facebook img {
+    position: absolute;
+    left: 22%;
+    top: 15%;
+    width: 20px;
+    height: 20px;
+}
+.facebook:nth-child(2) {
+    background-color: #1ec4ff;
+}
+
+.facebook:nth-child(2) img {
+    left: 22%;
+}
+
+.facebook:nth-child(3) {
+    background: red;
+}
+
+.facebook:nth-child(3) img {
+    left: 22%;
+    top: 17%;
+}
+
+.facebook:nth-child(4) {
+    background-color: #ff3298;
+}
+
+.facebook:nth-child(4) img {
+    left: 18%;
+    top: 15%;
+}
+@media only screen and (max-width: 480px){
+    header .tren .phai ul{
+        display: none;
+    }
+    header .tren .phai .menu{
+        display: block !important;
+    }
+    header .tren .phai .menu {
+        display: block !important;
+        margin-left: auto;
+        margin-right: 30px;
+        width: fit-content;
+        margin-top: 20px;
+    }
+    .than_1 .bao{
+        width: 100% !important;
+    }
+    .xanhnhat .khoi{
+        width: 100% !important;
+    }
+    .than .than_1 .than3 .duoi1{
+        width: 100% !important;
+    }
+    .than .than_1 .than3 .duoi1 .phai .anh img:nth-child(1) {
+        position: absolute;
+        left: 19% !important;
+        top: 7% !important;
+        z-index: 1;
+        width: 300px !important;
+    }
+    .than .than_1 .than3 .duoi1 .phai .anh img:nth-child(2) {
+        position: absolute;
+        left: 7% !important;
+        top: 0% !important;
+        z-index: -1;
+        width: 413px !important;
+    }
+    .than .than_1 .than3 .duoi1 .phai{
+        height: 200px !important;
+    }
+    .nut_duoi{
+        left: 34%;
+    }
+    .than .than_1 .xanhnhat .duoi .col-3{
+
+    }
+    .xanhnhat .bao1 .duoi .col-3 .trong{
+        height: 265px !important;
+    }
+    .xanhnhat .bao1 .duoi .col-3 .trong .chuxanh{
+        top: 20% !important;
+
+    }
+    .xanhnhat .bao1 .duoi .col-3 .trong .chuthuong{
+        top: 46% !important;
+    }
+    .bao2 .col-2{
+        text-align: center;
+    }
+    .nut_duoi{
+        left: 35% !important;
+    }
+    .bao .khoi .khoi_1{
+        
+    }
+}
+@media only screen and (max-width: 769px){
+    header{
+        background-color: rgb(25,40,63);
+        color: white;
+        height: 450px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 60px;
+        width: 100%;
+    }
+    header .tren .phai {
+        max-width: 80% !important;
+        flex: none !important;
+    }
+    
+    header .tren .phai ul {
+        height: fit-content;
+        margin-top: 10px;
+        font-size: 13px;
+    }
+    
+    header .tren .phai ul li {
+        height: fit-content;
+    }
+    
+    header .tren .phai ul li .nut{
+        height: fit-content;
+    }
+    
+    header .tren .trai img {
+        position: absolute;
+        left: 30%;
+        margin-top: 10px;
+    }
+    
+    header .tren .trai {
+        position: relative;
+        max-width: 20% !important;
+    }
+    
+    header .tren .phai ul li a i {
+        color: rgb(15,93,106);
+    }
+    .nutdo {
+        background-color: rgb(255,49,80);
+        border-radius: 15px;
+        color: #ffc501;
+        /*! padding-left: 20px; */
+        /*! padding-right: 20px; */
+        /* padding-top: 4px;
+        padding-bottom: 4px; */
+        text-align: center;
+    }
+    
+    .xanh_dam {
+        background-color: rgb(25,40,63);
+        text-align: center;
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    
+    header .tren {
+        /* height: 200px; */
+    }
+    
+    .xanh_dam h3 {
+        font-size: 51px;
+        font-weight: 400;
+        color: #a8b9c0;
+    }
+    
+    .xanh_dam p {
+        font-size: 15px;
+        color: #a8b9c0;
+    }
+    .xanh_dam .nut {
+        position: relative;
+    }
+    .nut_duoi {
+        position: absolute;
+        left: 40%;
+        padding-top: 8px;
+        padding-right: 12px;
+        padding-left: 12px;
+        padding-bottom: 8px;
+    }
+    .than_1 {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .than_1 .bao {
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+        height: fit-content;
+    }
+    .xanh_nhat{
+        background-color: ;
+    }
+    .than .than_1 .bao .tren {
+        text-align: center;
+        margin-top: 20px;
+        height: fit-content;
+    }
+    
+    .chughi {
+        color: rgb(230,235,237);
+        text-transform: uppercase;
+        font-size: 11px;
+        width: fit-content;
+        border-bottom: 1px solid rgb(172,236,234);
+        margin-right: auto;
+        margin-left: auto;
+        width: max-content;
+    }
+    
+    .than .than_1 .bao .duoi {
+        text-align: center;
+        width: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    
+    .chuvang {
+        color: #ffc501;
+        text-transform: uppercase;
+        font-weight: 500;
+        font-size: 14px;
+    }
+    
+    .than .than_1 .bao .duoi .col-4 p {
+        color: #a8b9c0;
+        font-size: 12px;
+    }
+    .than_1 .bao .duoi .col-4 img {
+        width: 115px;
+        height: 154px;
+    }
+    .than .than_1 .xanhnhat .bao .duoi nav .nav {
+        height: fit-content;
+        margin-top: 10px;
+        width: fit-content;
+        justify-content: space-between;
+    }
+    
+    .xanhnhat .bao .duoi .nav .nav-item {
+        height: fit-content;
+        margin-right: 15px;
+    }
+    
+    .xanhnhat .bao .duoi .nav .nav-item .nutdo {
+        padding-top: 5px;
+        border-radius: 8px;
+        padding-bottom: 5px;
+        margin-top: -5px;
+    }
+    .xanhnhat .khoi {
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 25px;
+    }
+    
+    .xanhnhat .khoi .khoi_1 {
+        height: 100px;
+        margin-top: 20px;
+    }
+    .xanhnhat .khoi .khoi_1 .trong h3{
+        font-size: 11px;
+        color: white;
+        position: absolute;
+        left: 2%;
+        top: 37%;
+    }
+    .xanhnhat .khoi .khoi_1 .trong p{
+        font-size: 10px;
+        position: absolute;
+        left: 27%;
+        top: 55%;
+    }
+    
+    .xanhnhat {
+        background-color: #eff7fa;
+    }
+    
+    .xanhnhat .bao .tren img {
+        margin-top: 20px;
+    }
+    .xanhnhat .khoi .khoi_1 .trong {
+        width: 100%;
+        height: 100%;
+        position: relative;
+        background-color: white;
+    }
+    .than .than_1 .xanhnhat .duoi{
+        padding-bottom: 25px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .than .than_1 .xanhnhat .duoi .nutdo{
+        width: fit-content;
+        padding-top: 5px;
+        margin-top: 25px;
+        padding-bottom: 5px;
+        margin-left: auto;
+        margin-right: auto;
+        width: max-content;
+    }
+    .chuthuong{
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+        color: #a8b9c0;
+    }
+    .than .than_1 .than3{
+        height: fit-content;
+        padding-bottom: 50px;
+    }
+    .than .than_1 .than3 .duoi1{
+        
+    }
+    .than .than_1 .than3 .duoi1 .trai p{
+        color: #a8b9c0;
+    }
+    .than .than_1 .than3 .duoi1 .trai .nutdo {
+        width: fit-content;
+        padding-top: 5px;
+        margin-top: 25px;
+        padding-bottom: 5px;
+        width: max-content;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .than .than_1 .than3 .duoi1{
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+        display: block;
+        height: max-content;
+    }
+    .than .than_1 .than3 .duoi1 .trai{
+        margin-top: 40px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 100% !important;
+        text-align: center;
+    }
+    .than .than_1 .than3 .duoi1 .phai{display: block;max-width: 100% !important;height: 400px;}
+    .than .than_1 .than3 .duoi1 .phai .anh{
+        position: relative;
+        width: 100%;
+        height: 100%;
+    }
+    .than .than_1 .than3 .duoi1 .phai .anh img:nth-child(1){
+        position: absolute;
+        left: 14%;
+        top:6%;
+        z-index: 1;
+        width: 430px;
+    }
+    .than .than_1 .than3 .duoi1 .phai .anh img:nth-child(2){
+        position: absolute;
+        left: 0;
+        top: 0%;
+        z-index: -1;
+        width: 600px;
+    }
+    .xanhnhat .bao1{
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 25px;
+        height: fit-content;
+    }
+    .xanhnhat .bao1 .tren{
+        text-align: center;
+        padding-top: 40px;
+        height: fit-content;
+    }
+    .xanhnhat .bao1 .tren .chuthuong{
+        width: 80%;
+        margin-top: 20px;
+    }
+    .xanhnhat .bao1 .duoi{
+        padding-top: 20px;
+    }
+    .xanhnhat .bao1 .duoi .col-3 .trong{
+        background-color: white;
+        text-align: center;
+        width: 100%;
+        height: 384px;
+        position: relative;
+    }
+    .xanhnhat .bao1 .duoi .col-3 .trong .chuxanh{
+        background-color: #33d1cc; 
+        width: 100%;
+        height: fit-content;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        position: absolute;
+        left: 0;
+        top: 50%;
+    }
+    .xanhnhat .bao1 .duoi .col-3 .trong .chuthuong{
+        position: absolute;
+        width: 100%;
+        left: 0;
+        top: 70%;
+    }
+    .bao2{
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .bao .khoi .khoi_1{} 
+    .bao .khoi .khoi_1 .trong{
+        height: 129px;
+    } 
+    .bao .khoi .khoi_1 p{
+        color: #a8b9c0;
+        font-size: 13px;
+        margin-top: 10px;
+    } 
+    .bao .khoi .khoi_1 span{
+        font-size: 16px;
+    }  
+    .bao .duoi{
+        margin-top: 20px;
+        padding-bottom: 30px;
+    } 
+    .bao .duoi .nutdo {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        width: max-content;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .mauvang{
+        background-color: #ffc400;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .mauvang .khoi{
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        height: fit-content;
+    }
+    .mauvang .khoi .col-3{
+        font-size: 15px;
+    }
+    .mauvang .khoi .col-6{
+        color: white;
+        border-bottom: 1px solid white;
+        height: fit-content;
+    }
+    .mauvang .khoi .nutdo{
+        background-color: #19283f;
+        padding-top: 5px;
+        width: fit-content;
+        padding-bottom: 5px;
+    }
+    footer .bao .dong1 {
+        margin-top: 20px;
+        font-size: 13px;
+        color: #a8b9c0;
+    }
+    
+    footer .bao div {
+        color: #a8b9c0;
+        margin-top: 30px;
+        font-size: 13px;
+        display: block;
+        max-width: 45% !important;
+        flex: none !important;
+    }
+    
+    footer .bao div span {
+        color: #00c7c0;
+    }
+    
+    footer .bao .dong2 {font-size: 13px;margin-top: 20px;}
+    
+    footer .bao {
+        text-align: left;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    
+    footer .bao .dong2 span {
+        color: #ffc501;
+    }
+    
+    footer .bao .col-2 ul {
+        list-style-type: none;
+    }
+    
+    footer .bao .col-2 ul li {
+        margin-bottom: 20px;
+    }
+    
+    footer .bao .col-2 ul li:nth-child(1) {
+        font-size: 15px;
+        color: #f0f8fb;
+    }
+    footer .bao .col-4 p:nth-child(1) {
+        color: #f0f8fb;
+        font-size: 15px;
+    }
+    
+    footer .nutdo {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        color: #ffffff !important;
+        font-size: 12px !important;
+        display: block !important;
+        max-width: 100% !important;
+    }
+    footer .bao .icons {
+        width: 50%;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .facebook {
+        border-radius: 50%;
+        background-color: blue;
+        position: relative;
+        height: 25px;
+        width: 21% !important;
+    }
+    
+    .facebook img {
+        position: absolute;
+        left: 24%;
+        top: 16%;
+        width: 15px;
+        height: 15px;
+    }
+    .facebook:nth-child(2) {
+        background-color: #1ec4ff;
+    }
+    
+    .facebook:nth-child(2) img {
+        left: 26%;
+    }
+    
+    .facebook:nth-child(3) {
+        background: red;
+    }
+    
+    .facebook:nth-child(3) img {
+        left: 21%;
+        top: 17%;
+    }
+    
+    .facebook:nth-child(4) {
+        background-color: #ff3298;
+    }
+    
+    .facebook:nth-child(4) img {
+        left: 17%;
+        top: 16%;
+    }
+    .bao2 .col-2 {
+        display: block;
+        max-width: 30% !important;
+        flex: none !important;
+    }
+    .than .than_1 .xanhnhat .duoi .col-3 {
+        display: block;
+        max-width: 45% !important;
+        flex: none !important;
+        margin-bottom: 40px;
+    }
+    .than .than_1:nth-child(1) .xanhnhat .duoi nav {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
