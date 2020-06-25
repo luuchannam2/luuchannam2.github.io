@@ -9,6 +9,7 @@ body {
 html{
     width: 100%;
     height: 100%;
+    overflow-x: hidden;
 }
 * {
     box-sizing: border-box;
@@ -523,8 +524,52 @@ footer .bao .icons {
     .nut_duoi{
         left: 35% !important;
     }
-    .bao .khoi .khoi_1{
-        
+    .bao .khoi{
+        display: block;
+    }
+    .bao .khoi .khoi_1 {
+        max-width: 60% !important;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .bao .khoi .khoi_1 p{
+        margin-left: auto;
+        margin-right: auto;
+        width: fit-content;
+    }
+    .bao .khoi .khoi_1 span{
+        margin-left: auto;
+        margin-right: auto;
+        width: fit-content;
+        display: block;
+    }
+    .mauvang .khoi{
+        display: block;
+    }
+    .mauvang .khoi .col-3{
+        max-width: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .mauvang .khoi .col-6{
+        width: fit-content;
+        max-width: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+    footer .nutdo{
+        padding-left: 8px;
+    }
+    footer .bao div{
+        width: 100% !important;
+    }
+    footer .bao .icons{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100% !important;
     }
 }
 @media only screen and (max-width: 769px){
@@ -538,7 +583,7 @@ footer .bao .icons {
         width: 100%;
     }
     header .tren .phai {
-        max-width: 80% !important;
+        max-width: 77% !important;
         flex: none !important;
     }
     
@@ -590,6 +635,7 @@ footer .bao .icons {
     
     header .tren {
         /* height: 200px; */
+        width: 100%;
     }
     
     .xanh_dam h3 {
